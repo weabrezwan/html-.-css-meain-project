@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,700;0,800;1,400;1,800&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+img {}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+}
+
+.jibon {}
+
+.jibon h2 {
+    font-weight: 100;
+    margin: 0;
+}
+
+nav {}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+nav ul li {}
+
+nav ul li a {
+    text-decoration: none;
+    margin-left: 35px;
+    color: black;
+    font-weight: 400;
+}
+
+/* banner section start ji */
+
+.fokir-bolod {
+    height: 90vh;
+    background-image: url(/images/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 250px 0;
+}
+
+.fokir-bolod h1 {
+    padding: 0 0 0 50px;
+    font-size: 51px;
+    color: white;
+    font-weight: 500;
+    margin: 0;
+}
+
+.fokir-bolod h5 {
+    font-weight: 600;
+    margin: 0;
+    padding: 36px 0 0 56px;
+    color: white;
+}
+
+.fokir-bolod button {
+    padding: 13px 16px 13px 16px;
+    margin: 44px 0 0 58px;
+    background-color: #b5bbc5;
+    border: none;
+    border-radius: 5px;
+}
+
+/* gorib vikhari section 1 start */
+
+.gorib {
+    text-align: center;
+}
+
+.gorib h2 {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.gorib h5 {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.ami-bujte-parsi {
+    display: flex;
+    margin: auto;
+    padding: 56px;
+    width: 91%;
+    align-items: center;
+}
+
+.rohinga {
+    margin: 7px;
+}
+
+.rohinga img {
+    display: block;
+    border-radius: 28px;
+    margin: auto;
+}
+
+.rohinga h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.rohinga p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.vikhari {
+    margin: 10px;
+}
+
+.vikhari img {
+    border-radius: 32px;
+    display: block;
+    margin: auto;
+}
+
+.vikhari h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.vikhari p {
+    text-align: center;
+    font-size: 13px;
+    margin: 0 0 0 0;
+}
+
+.moyna {
+    margin: 10px;
+}
+
+.moyna img {
+    border-radius: 25px;
+    display: block;
+    margin: auto;
+}
+
+.moyna h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.moyna p {
+    font-size: 13px;
+    text-align: center;
+}
+
+.pakhi {
+    margin: 10px;
+    margin: 10px;
+}
+
+.pakhi img {
+    border-radius: 27px;
+    display: block;
+    margin: auto;
+}
+
+.pakhi h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.pakhi p {
+    font-size: 13px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
